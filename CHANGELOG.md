@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v12.0.1...12.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/Principal...main)
+
+## [Principal](https://github.com/laravel/laravel/compare/v12.0.1...Principal) - 2025-03-07
+
+Servicio de eventos
 
 ## [v12.0.1](https://github.com/laravel/laravel/compare/v12.0.0...v12.0.1) - 2025-02-24
 
